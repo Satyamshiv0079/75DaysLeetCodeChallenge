@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/Satyamshiv0079/75DaysLeetCodeChallenge/tree/master/1331-rank-transform-of-an-array) |
 | [1406-stone-game-iii](https://github.com/Satyamshiv0079/75DaysLeetCodeChallenge/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Satyamshiv0079/75DaysLeetCodeChallenge/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1470-shuffle-the-array](https://github.com/Satyamshiv0079/75DaysLeetCodeChallenge/tree/master/1470-shuffle-the-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Satyamshiv0079/75DaysLeetCodeChallenge/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Satyamshiv0079/75DaysLeetCodeChallenge/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Satyamshiv0079/75DaysLeetCodeChallenge/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
