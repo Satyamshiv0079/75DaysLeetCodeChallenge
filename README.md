@@ -48,10 +48,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Satyamshiv0079/75DaysLeetCodeChallenge/tree/master/0094-binary-tree-inorder-traversal) |
+| [0617-merge-two-binary-trees](https://github.com/Satyamshiv0079/75DaysLeetCodeChallenge/tree/master/0617-merge-two-binary-trees) |
 | [2685-count-the-number-of-complete-components](https://github.com/Satyamshiv0079/75DaysLeetCodeChallenge/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0617-merge-two-binary-trees](https://github.com/Satyamshiv0079/75DaysLeetCodeChallenge/tree/master/0617-merge-two-binary-trees) |
 | [2685-count-the-number-of-complete-components](https://github.com/Satyamshiv0079/75DaysLeetCodeChallenge/tree/master/2685-count-the-number-of-complete-components) |
 ## Sorting
 |  |
@@ -178,8 +180,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Satyamshiv0079/75DaysLeetCodeChallenge/tree/master/0094-binary-tree-inorder-traversal) |
+| [0617-merge-two-binary-trees](https://github.com/Satyamshiv0079/75DaysLeetCodeChallenge/tree/master/0617-merge-two-binary-trees) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Satyamshiv0079/75DaysLeetCodeChallenge/tree/master/0094-binary-tree-inorder-traversal) |
+| [0617-merge-two-binary-trees](https://github.com/Satyamshiv0079/75DaysLeetCodeChallenge/tree/master/0617-merge-two-binary-trees) |
 <!---LeetCode Topics End-->
