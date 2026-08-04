@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Satyamshiv0079/75DaysLeetCodeChallenge/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1331-rank-transform-of-an-array](https://github.com/Satyamshiv0079/75DaysLeetCodeChallenge/tree/master/1331-rank-transform-of-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Satyamshiv0079/75DaysLeetCodeChallenge/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Satyamshiv0079/75DaysLeetCodeChallenge/tree/master/3312-sorted-gcd-pair-queries) |
@@ -49,11 +50,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Satyamshiv0079/75DaysLeetCodeChallenge/tree/master/0094-binary-tree-inorder-traversal) |
 | [0617-merge-two-binary-trees](https://github.com/Satyamshiv0079/75DaysLeetCodeChallenge/tree/master/0617-merge-two-binary-trees) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Satyamshiv0079/75DaysLeetCodeChallenge/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [2685-count-the-number-of-complete-components](https://github.com/Satyamshiv0079/75DaysLeetCodeChallenge/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0617-merge-two-binary-trees](https://github.com/Satyamshiv0079/75DaysLeetCodeChallenge/tree/master/0617-merge-two-binary-trees) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Satyamshiv0079/75DaysLeetCodeChallenge/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [2685-count-the-number-of-complete-components](https://github.com/Satyamshiv0079/75DaysLeetCodeChallenge/tree/master/2685-count-the-number-of-complete-components) |
 ## Sorting
 |  |
@@ -99,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Satyamshiv0079/75DaysLeetCodeChallenge/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Satyamshiv0079/75DaysLeetCodeChallenge/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
 |  |
@@ -181,9 +185,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Satyamshiv0079/75DaysLeetCodeChallenge/tree/master/0094-binary-tree-inorder-traversal) |
 | [0617-merge-two-binary-trees](https://github.com/Satyamshiv0079/75DaysLeetCodeChallenge/tree/master/0617-merge-two-binary-trees) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Satyamshiv0079/75DaysLeetCodeChallenge/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Satyamshiv0079/75DaysLeetCodeChallenge/tree/master/0094-binary-tree-inorder-traversal) |
 | [0617-merge-two-binary-trees](https://github.com/Satyamshiv0079/75DaysLeetCodeChallenge/tree/master/0617-merge-two-binary-trees) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Satyamshiv0079/75DaysLeetCodeChallenge/tree/master/0653-two-sum-iv-input-is-a-bst) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Satyamshiv0079/75DaysLeetCodeChallenge/tree/master/0653-two-sum-iv-input-is-a-bst) |
 <!---LeetCode Topics End-->
