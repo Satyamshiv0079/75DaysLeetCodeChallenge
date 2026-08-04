@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Satyamshiv0079/75DaysLeetCodeChallenge/tree/master/0094-binary-tree-inorder-traversal) |
 | [2685-count-the-number-of-complete-components](https://github.com/Satyamshiv0079/75DaysLeetCodeChallenge/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Satyamshiv0079/75DaysLeetCodeChallenge/tree/master/0094-binary-tree-inorder-traversal) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Satyamshiv0079/75DaysLeetCodeChallenge/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Greedy
 |  |
@@ -172,4 +174,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0877-stone-game](https://github.com/Satyamshiv0079/75DaysLeetCodeChallenge/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Satyamshiv0079/75DaysLeetCodeChallenge/tree/master/1406-stone-game-iii) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Satyamshiv0079/75DaysLeetCodeChallenge/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Satyamshiv0079/75DaysLeetCodeChallenge/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
