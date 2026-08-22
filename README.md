@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Satyamshiv0079/75DaysLeetCodeChallenge/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Satyamshiv0079/75DaysLeetCodeChallenge/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/Satyamshiv0079/75DaysLeetCodeChallenge/tree/master/1260-shift-2d-grid) |
+| [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Satyamshiv0079/75DaysLeetCodeChallenge/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1331-rank-transform-of-an-array](https://github.com/Satyamshiv0079/75DaysLeetCodeChallenge/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/Satyamshiv0079/75DaysLeetCodeChallenge/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/Satyamshiv0079/75DaysLeetCodeChallenge/tree/master/1406-stone-game-iii) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Satyamshiv0079/75DaysLeetCodeChallenge/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Satyamshiv0079/75DaysLeetCodeChallenge/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Satyamshiv0079/75DaysLeetCodeChallenge/tree/master/1140-stone-game-ii) |
+| [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Satyamshiv0079/75DaysLeetCodeChallenge/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1406-stone-game-iii](https://github.com/Satyamshiv0079/75DaysLeetCodeChallenge/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Satyamshiv0079/75DaysLeetCodeChallenge/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Satyamshiv0079/75DaysLeetCodeChallenge/tree/master/1563-stone-game-v) |
