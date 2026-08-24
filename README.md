@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Satyamshiv0079/75DaysLeetCodeChallenge/tree/master/0001-two-sum) |
+| [0035-search-insert-position](https://github.com/Satyamshiv0079/75DaysLeetCodeChallenge/tree/master/0035-search-insert-position) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Satyamshiv0079/75DaysLeetCodeChallenge/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Satyamshiv0079/75DaysLeetCodeChallenge/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Satyamshiv0079/75DaysLeetCodeChallenge/tree/master/1140-stone-game-ii) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Satyamshiv0079/75DaysLeetCodeChallenge/tree/master/0035-search-insert-position) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Satyamshiv0079/75DaysLeetCodeChallenge/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Satyamshiv0079/75DaysLeetCodeChallenge/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Satyamshiv0079/75DaysLeetCodeChallenge/tree/master/3501-maximize-active-section-with-trade-ii) |
