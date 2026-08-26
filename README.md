@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Satyamshiv0079/75DaysLeetCodeChallenge/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Satyamshiv0079/75DaysLeetCodeChallenge/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Satyamshiv0079/75DaysLeetCodeChallenge/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Satyamshiv0079/75DaysLeetCodeChallenge/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0006-zigzag-conversion](https://github.com/Satyamshiv0079/75DaysLeetCodeChallenge/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/Satyamshiv0079/75DaysLeetCodeChallenge/tree/master/0012-integer-to-roman) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Satyamshiv0079/75DaysLeetCodeChallenge/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0076-minimum-window-substring](https://github.com/Satyamshiv0079/75DaysLeetCodeChallenge/tree/master/0076-minimum-window-substring) |
 | [0273-integer-to-english-words](https://github.com/Satyamshiv0079/75DaysLeetCodeChallenge/tree/master/0273-integer-to-english-words) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Satyamshiv0079/75DaysLeetCodeChallenge/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Satyamshiv0079/75DaysLeetCodeChallenge/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0572-subtree-of-another-tree](https://github.com/Satyamshiv0079/75DaysLeetCodeChallenge/tree/master/0572-subtree-of-another-tree) |
 ## Hash Function
 |  |
@@ -348,4 +351,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0273-integer-to-english-words](https://github.com/Satyamshiv0079/75DaysLeetCodeChallenge/tree/master/0273-integer-to-english-words) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Satyamshiv0079/75DaysLeetCodeChallenge/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Satyamshiv0079/75DaysLeetCodeChallenge/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Satyamshiv0079/75DaysLeetCodeChallenge/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
