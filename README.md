@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/Satyamshiv0079/75DaysLeetCodeChallenge/tree/master/0006-zigzag-conversion) |
 | [0076-minimum-window-substring](https://github.com/Satyamshiv0079/75DaysLeetCodeChallenge/tree/master/0076-minimum-window-substring) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Satyamshiv0079/75DaysLeetCodeChallenge/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1927-sum-game](https://github.com/Satyamshiv0079/75DaysLeetCodeChallenge/tree/master/1927-sum-game) |
