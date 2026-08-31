@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Satyamshiv0079/75DaysLeetCodeChallenge/tree/master/0022-generate-parentheses) |
 | [0877-stone-game](https://github.com/Satyamshiv0079/75DaysLeetCodeChallenge/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Satyamshiv0079/75DaysLeetCodeChallenge/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Satyamshiv0079/75DaysLeetCodeChallenge/tree/master/1406-stone-game-iii) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0006-zigzag-conversion](https://github.com/Satyamshiv0079/75DaysLeetCodeChallenge/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/Satyamshiv0079/75DaysLeetCodeChallenge/tree/master/0012-integer-to-roman) |
+| [0022-generate-parentheses](https://github.com/Satyamshiv0079/75DaysLeetCodeChallenge/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Satyamshiv0079/75DaysLeetCodeChallenge/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0076-minimum-window-substring](https://github.com/Satyamshiv0079/75DaysLeetCodeChallenge/tree/master/0076-minimum-window-substring) |
 | [0273-integer-to-english-words](https://github.com/Satyamshiv0079/75DaysLeetCodeChallenge/tree/master/0273-integer-to-english-words) |
@@ -323,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Satyamshiv0079/75DaysLeetCodeChallenge/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/Satyamshiv0079/75DaysLeetCodeChallenge/tree/master/0037-sudoku-solver) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Satyamshiv0079/75DaysLeetCodeChallenge/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Minimax
@@ -382,4 +385,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Satyamshiv0079/75DaysLeetCodeChallenge/tree/master/0021-merge-two-sorted-lists) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Satyamshiv0079/75DaysLeetCodeChallenge/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Satyamshiv0079/75DaysLeetCodeChallenge/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
