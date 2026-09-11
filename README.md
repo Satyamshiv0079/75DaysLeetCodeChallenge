@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3312-sorted-gcd-pair-queries](https://github.com/Satyamshiv0079/75DaysLeetCodeChallenge/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Satyamshiv0079/75DaysLeetCodeChallenge/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Satyamshiv0079/75DaysLeetCodeChallenge/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Satyamshiv0079/75DaysLeetCodeChallenge/tree/master/3483-unique-3-digit-even-numbers) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Satyamshiv0079/75DaysLeetCodeChallenge/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Satyamshiv0079/75DaysLeetCodeChallenge/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Satyamshiv0079/75DaysLeetCodeChallenge/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Satyamshiv0079/75DaysLeetCodeChallenge/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Satyamshiv0079/75DaysLeetCodeChallenge/tree/master/3312-sorted-gcd-pair-queries) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Satyamshiv0079/75DaysLeetCodeChallenge/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Satyamshiv0079/75DaysLeetCodeChallenge/tree/master/3483-unique-3-digit-even-numbers) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Satyamshiv0079/75DaysLeetCodeChallenge/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Satyamshiv0079/75DaysLeetCodeChallenge/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Satyamshiv0079/75DaysLeetCodeChallenge/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Satyamshiv0079/75DaysLeetCodeChallenge/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Satyamshiv0079/75DaysLeetCodeChallenge/tree/master/3483-unique-3-digit-even-numbers) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Satyamshiv0079/75DaysLeetCodeChallenge/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Satyamshiv0079/75DaysLeetCodeChallenge/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Satyamshiv0079/75DaysLeetCodeChallenge/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -399,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/Satyamshiv0079/75DaysLeetCodeChallenge/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Satyamshiv0079/75DaysLeetCodeChallenge/tree/master/0025-reverse-nodes-in-k-group) |
 | [0273-integer-to-english-words](https://github.com/Satyamshiv0079/75DaysLeetCodeChallenge/tree/master/0273-integer-to-english-words) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Satyamshiv0079/75DaysLeetCodeChallenge/tree/master/3483-unique-3-digit-even-numbers) |
 ## Z Algorithm
 |  |
 | ------- |
