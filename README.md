@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Satyamshiv0079/75DaysLeetCodeChallenge/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Satyamshiv0079/75DaysLeetCodeChallenge/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/Satyamshiv0079/75DaysLeetCodeChallenge/tree/master/0115-distinct-subsequences) |
 | [0877-stone-game](https://github.com/Satyamshiv0079/75DaysLeetCodeChallenge/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/Satyamshiv0079/75DaysLeetCodeChallenge/tree/master/0940-distinct-subsequences-ii) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Satyamshiv0079/75DaysLeetCodeChallenge/tree/master/0012-integer-to-roman) |
 | [0022-generate-parentheses](https://github.com/Satyamshiv0079/75DaysLeetCodeChallenge/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Satyamshiv0079/75DaysLeetCodeChallenge/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0032-longest-valid-parentheses](https://github.com/Satyamshiv0079/75DaysLeetCodeChallenge/tree/master/0032-longest-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/Satyamshiv0079/75DaysLeetCodeChallenge/tree/master/0076-minimum-window-substring) |
 | [0115-distinct-subsequences](https://github.com/Satyamshiv0079/75DaysLeetCodeChallenge/tree/master/0115-distinct-subsequences) |
 | [0273-integer-to-english-words](https://github.com/Satyamshiv0079/75DaysLeetCodeChallenge/tree/master/0273-integer-to-english-words) |
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Satyamshiv0079/75DaysLeetCodeChallenge/tree/master/0032-longest-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Satyamshiv0079/75DaysLeetCodeChallenge/tree/master/0094-binary-tree-inorder-traversal) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Satyamshiv0079/75DaysLeetCodeChallenge/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Greedy
@@ -447,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Satyamshiv0079/75DaysLeetCodeChallenge/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Satyamshiv0079/75DaysLeetCodeChallenge/tree/master/0032-longest-valid-parentheses) |
 ## Divide and Conquer
 |  |
 | ------- |
