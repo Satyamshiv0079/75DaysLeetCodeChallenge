@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/Satyamshiv0079/75DaysLeetCodeChallenge/tree/master/0301-remove-invalid-parentheses) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/Satyamshiv0079/75DaysLeetCodeChallenge/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Satyamshiv0079/75DaysLeetCodeChallenge/tree/master/0617-merge-two-binary-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Satyamshiv0079/75DaysLeetCodeChallenge/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Satyamshiv0079/75DaysLeetCodeChallenge/tree/master/0076-minimum-window-substring) |
 | [0115-distinct-subsequences](https://github.com/Satyamshiv0079/75DaysLeetCodeChallenge/tree/master/0115-distinct-subsequences) |
 | [0273-integer-to-english-words](https://github.com/Satyamshiv0079/75DaysLeetCodeChallenge/tree/master/0273-integer-to-english-words) |
+| [0301-remove-invalid-parentheses](https://github.com/Satyamshiv0079/75DaysLeetCodeChallenge/tree/master/0301-remove-invalid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Satyamshiv0079/75DaysLeetCodeChallenge/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Satyamshiv0079/75DaysLeetCodeChallenge/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Satyamshiv0079/75DaysLeetCodeChallenge/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -435,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Satyamshiv0079/75DaysLeetCodeChallenge/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/Satyamshiv0079/75DaysLeetCodeChallenge/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/Satyamshiv0079/75DaysLeetCodeChallenge/tree/master/0052-n-queens-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/Satyamshiv0079/75DaysLeetCodeChallenge/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Satyamshiv0079/75DaysLeetCodeChallenge/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Satyamshiv0079/75DaysLeetCodeChallenge/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Minimax
